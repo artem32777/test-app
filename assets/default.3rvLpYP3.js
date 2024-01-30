@@ -1,0 +1,1 @@
+import{_ as t,v as s,O as o,x as n,t as a}from"./entry.-Zd_hhy1.js";const c={},r=n("div",null,"TITLE",-1);function l(e,_){return a(),s("section",null,[r,o(e.$slots,"default")])}const f=t(c,[["render",l]]);export{f as default};
