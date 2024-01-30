@@ -1,0 +1,14 @@
+{
+  "printWidth": 80,
+  "arrowParens": "always",
+  "singleQuote": true,
+  "jsxSingleQuote" : true,
+  "bracketSameLine": true,
+  "tabWidth": 2,
+  "semi": false,
+  "singleAttributePerLine": true,
+  "vueIndentScriptAndStyle": false,
+  "bracketSpacing": true,
+  "plugins": ["prettier-plugin-tailwindcss"],
+  "tailwindConfig": "./tailwind.config.js"
+}
